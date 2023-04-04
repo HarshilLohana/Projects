@@ -1,0 +1,17 @@
+eGatePass Project (Solution Challenge)
+
+
+Purpose: The purpose of this project was to solve difficulty in infrastructures like college,school and industrial sector.
+
+Features: It provides basic login system and can allow signup too. It also give total number of gatepass taken by a student.
+
+User Interface: Easy to understand interface.
+
+Security: Security has been provided as no person/student can use this system untill admin allow him/her.
+
+Testing: I have thoroughly tested this application several times.
+
+So basically this a small webapp which provides alternative of paper system of gatepass.
+
+Languages used : J2EE(Eclipse)
+
