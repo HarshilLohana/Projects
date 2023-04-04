@@ -1,0 +1,19 @@
+create database egatepass;
+
+use egatepass;
+
+create table users(
+	enrollmentNum integer primary key,
+	firstName varchar(40),
+	email varchar(40),
+	password varchar(40),
+	role integer
+	
+);
+
+role->enum-> 1.Admin 2. HOD 3.Faculty 4.Student 5.Security
+
+Admin -> Never sign up but can add another admin
+
+signup->student only -> hod/faculty approve
+
